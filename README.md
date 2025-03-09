@@ -6,8 +6,9 @@ This repository contains the legal documents for the Countify iOS app, including
 
 - [Privacy Policy](https://dreck0001.github.io/countify-legal/privacy-policy) - Our commitment to protecting user privacy
 - [Support](https://dreck0001.github.io/countify-legal/support) - Help and frequently asked questions about Countify
+<!---
 - [Terms of Service](https://dreck0001.github.io/countify-legal/terms-of-service) - *Coming soon*
-
+-->
 ## About Countify
 
 Countify is a modern, elegant iOS counter app that helps users keep track of anything that needs counting. With features like:
