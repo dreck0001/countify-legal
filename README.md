@@ -5,6 +5,7 @@ This repository contains the legal documents for the Countify iOS app, including
 ## Documents
 
 - [Privacy Policy](https://dreck0001.github.io/countify-legal/privacy-policy) - Our commitment to protecting user privacy
+- [Support](https://dreck0001.github.io/countify-legal/support) - Help and frequently asked questions about Countify
 - [Terms of Service](https://dreck0001.github.io/countify-legal/terms-of-service) - *Coming soon*
 
 ## About Countify
